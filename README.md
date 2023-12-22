@@ -8,7 +8,7 @@
 
 
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=latish705&label=Profile%20views&color=0e75b6&style=flat" alt="latish705" /> </p>
-![Coding workshop](https://github.com/Latish705/Latish705/assets/104522651/204f98c2-5e10-4ab2-bb8d-8330c00babd0)
+
 
 
 - 🌱 I’m currently learning **Backend with javascript and React**
