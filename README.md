@@ -2,9 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm Latish Adwani</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" width="400" alt="Coding" src="https://static.vecteezy.com/system/resources/thumbnails/007/559/606/small/a-children-learning-coding-or-computer-programming-flat-illustration-coding-for-kids-basic-computer-programing-can-be-used-for-web-landing-page-social-media-promotion-etc-vector.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=latish705&label=Profile%20views&color=0e75b6&style=flat" alt="latish705" /> </p>
+  <img align="right" width="400" alt="Coding" src="https://github.com/Latish705/Latish705/assets/104522651/204f98c2-5e10-4ab2-bb8d-8330c00babd0">
+
+
+
+<p align="left"> <img  src="https://komarev.com/ghpvc/?username=latish705&label=Profile%20views&color=0e75b6&style=flat" alt="latish705" /> </p>
+![Coding workshop](https://github.com/Latish705/Latish705/assets/104522651/204f98c2-5e10-4ab2-bb8d-8330c00babd0)
+
 
 - 🌱 I’m currently learning **Backend with javascript and React**
 
